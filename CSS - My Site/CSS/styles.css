@@ -1,0 +1,172 @@
+body {color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+p {
+  font-size: 30px;
+}
+
+h1 {
+  line-height: 2;
+  color: #6C6EB2;
+  margin: 50px auto 10px auto;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 5.255rem
+}
+
+h2 {
+  color: #6C6EB2;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+h3 {
+  color: #6C6EB2;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+}
+
+a {
+  color: #6C6EB2;
+  margin: 10px 10px;
+
+  width: 2em;
+}
+a:hover{ color: #EAF6F6;
+
+}
+
+
+.btn {
+  background: #afb0d5;
+  background-image: -webkit-linear-gradient(top, #afb0d5, #8789C0);
+  background-image: -moz-linear-gradient(top, #afb0d5, #8789C0);
+  background-image: -ms-linear-gradient(top, #afb0d5, #8789C0);
+  background-image: -o-linear-gradient(top, #afb0d5, #8789C0);
+  background-image: linear-gradient(to bottom, #afb0d5, #8789C0);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #8789C0;
+  background-image: -webkit-linear-gradient(top, #8789C0,  #afb0d5);
+  background-image: -moz-linear-gradient(top, #8789C0,  #afb0d5);
+  background-image: -ms-linear-gradient(top, #8789C0,  #afb0d5);
+  background-image: -o-linear-gradient(top, #8789C0,  #afb0d5);
+  background-image: linear-gradient(to bottom, #8789C0,  #afb0d5);
+  text-decoration: none;
+}
+
+}
+
+
+h5 {
+  color: #EAF6F6;
+}
+
+/************* Class groups ************/
+.top {
+  background-color: #FAF3DD;
+  position: relative;
+  padding-top: 185px;
+}
+
+.middle {}
+
+.bottom {}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.middle-picture {
+  position: relative;
+  width: 5%;
+  margin-left: 18.3px;
+  margin-top: 19px;
+  margin-bottom: -24px;
+}
+
+.skills-pic {
+  position: relative;
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+
+.audio-waves {
+  position: relative;
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.mail-img {
+  position: relative;
+  width: 50px;
+  margin-left: 0;
+  margin-top: 6px;
+  margin-bottom: 56px;
+}
+
+.underheading-text {
+  color: #8789C0;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  margin-top: 2.5rem;
+}
+
+.skill-row {
+  width: 50%;
+  position: relative;
+  text-align: left;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+}
+
+.bottom-container {
+  background-color: #afb0d5;
+  padding-top: 35px;
+  padding-bottom: 20px;
+  margin-top: 20px;
+}
+
+.dot-break {
+  border-style: dotted;
+  color: grey;
+  width: 5%;
+  border-bottom-width: 8px;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  padding-top: 50px;
+}
+
+.skills {
+  margin-top: 75px;
+}
+
+.contact-me {
+  margin-top: 161px;
+}
+
+
+
+/*******css for top background*******/
